@@ -1,0 +1,96 @@
+div {
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+    
+    /*add border of 1px, solid and black*/
+
+    /*margin of 10px*/
+
+    /*text center*/
+
+}
+
+#header {
+    height:140px;
+    background-color: gray;
+
+    /*height of 140px*/
+
+}
+
+#logo {
+    background-color: cyan;
+    position: absolute;
+    top:20px;
+    left: 20px;
+    width: 100px;
+    height: 100px;
+
+    /*position from top : 20px*/
+
+    /*position from left : 20px*/
+
+    /*width = 100px*/
+
+    /*height = 100px*/
+
+}
+
+/**/
+#nav {
+    background-color: pink;
+    position: absolute;
+    top: 80px;
+    right: 50px;
+    width: 50%;
+    padding: 10px;
+
+    /*position from top : 80px*/
+
+    /*position from right : 50px*/
+
+    /*width = 50%*/
+
+    /*padding of 10px*/
+}
+
+/**/
+#main {
+    background-color: slategrey;
+    width: 75%;
+    height: 400px;
+
+    /*width = 75%*/
+
+    /*height = 400px*/
+
+}
+
+/**/
+#sidebar {
+    background-color: greenyellow;
+    position: absolute;
+    right: 10px;
+    top: 152px;
+    width: 20%;
+    height: 400px;
+
+    /*position from rigth : 10px*/
+
+    /*position from top : 152px*/
+
+    /*width = 20%*/
+
+    /*height = 400px*/
+
+}
+
+/**/
+#footer {
+    background-color: beige;
+    height: 100px;
+
+    /*height = 100px*/
+
+}
